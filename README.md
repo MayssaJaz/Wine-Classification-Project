@@ -28,7 +28,7 @@ Following that, we dive into the training phase, making use of various Machine L
 - Decision Tree
 - Random Forest
 
-he final stage involves evaluating each algorithm's performance against others, using accuracy as the primary metric for assessment. 
+The final stage involves evaluating each algorithm's performance against others, using accuracy as the primary metric for assessment. 
 ## Details
 More details are contained inside the report PDF file that was joined.
  
